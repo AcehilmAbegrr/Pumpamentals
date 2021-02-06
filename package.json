@@ -1,0 +1,21 @@
+{
+  "name": "pumpamentals",
+  "version": "1.0.0",
+  "description": "Gets list of most trending coins",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pumpamentals"
+  ],
+  "author": "Michael Garber",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
